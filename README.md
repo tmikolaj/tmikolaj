@@ -12,3 +12,6 @@ One of my recent projects is **[GitForest](https://github.com/tmikolaj/GitForest
 
 🌲🌲🌲 7 trees = a forest filled
 
+Forests grown: <!-- forests -->0<!-- endforests -->
+
+![GitForest forest.svg](https://raw.githubusercontent.com/tmikolaj/GitForest/refs/heads/main/assets/forest.svg)
